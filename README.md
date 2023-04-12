@@ -1,5 +1,7 @@
 ### simple backend project with support for role-based security and a maching Pure JavaScript frontend
 
+## Teacher's example code for study purposes!
+
 ## IMPORTANT BEFORE YOU START
 
 ### This repo contains two projects
